@@ -10,11 +10,6 @@ const ll MOD=1e9+7;
 using namespace std;
 static const int N = 100;
 static const int INF = INT_MAX;
-/*
-static const int WHITE = 0;
-static const int GRAY = 1;
-static const int BLACK = 2;
-*/
 
 int n;
 bool M[N][N];
