@@ -6,5 +6,6 @@ typedef unsigned long long ull;
 #define reptr(i,n) for(int (i)=(n);(i)>=0;--(i))
 #define All(x) (x).begin(),(x).end()
 #define mp make_pair
+#define pb push_back
 const ll MOD=1e9+7;
 using namespace std;
